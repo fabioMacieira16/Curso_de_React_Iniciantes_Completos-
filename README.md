@@ -1,4 +1,4 @@
-# Curso de React Para Iniciantes Completos
+# Curso Completos de React Para Iniciantes.
  Curso de react com a criação de um projeto para Gerenciamento tarefas
 
 
