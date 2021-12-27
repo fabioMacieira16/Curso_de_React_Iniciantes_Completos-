@@ -9,6 +9,9 @@ Link: https://www.youtube.com/watch?v=ErjWNvP6mko
 SIGA-O NO INSTAGRAM:
 https://www.instagram.com/dicasparadevs
 
+SIGA-ME NO INSTAGRAM:
+https://www.instagram.com/fabiovitormacieira/
+
 # Conteúdos abordados no curso
 
 - 00:00 - Introdução
@@ -48,3 +51,7 @@ https://www.instagram.com/dicasparadevs
 - 01:35:19 - Criando um componente de classe
 - 01:40:15 - Entendendo keys em listas
 - 01:42:07 - Conclusão
+
+
+![Tasks](https://user-images.githubusercontent.com/20805453/147504440-5d06f2e6-0eaf-4b08-8555-460100b6680e.PNG)
+
